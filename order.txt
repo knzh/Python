@@ -4,6 +4,6 @@ git commit -a -m 'change'
 git push origin master
 git pull git@github.com:knzh/Python.git
 git add .
-git commit -m "提交信息"
+git commit -m "鎻愪氦淇℃伅"
 git push -u origin master
 git push --set-upstream origin maste
