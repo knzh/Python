@@ -6,4 +6,4 @@ git pull git@github.com:knzh/Python.git
 git add .
 git commit -a -m "提交信息"
 git push -u origin master
-git push --set-upstream origin maste
+git push --set-upstream origin master
